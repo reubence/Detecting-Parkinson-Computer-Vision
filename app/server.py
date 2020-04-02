@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/open?id=1-HuD6TWbFWtJU7ke4T4YSTBKxIPlimSn'
+export_file_url = 'https://www.dropbox.com/s/chvjoxleog53y9e/stage-2-rn34-256-final.pth?dl=0'
 export_file_name = 'export.pkl'
 
 classes = ['healthy','parkinson']
